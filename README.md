@@ -176,26 +176,7 @@ Users can freely download any normal tabular CSV from Kaggle and upload it direc
 
 ---
 
-## 9. Four-Person Presentation Guide (College Viva)
-
-To present this mini-project seamlessly as a 4-person team, the application includes a dedicated navigation guide:
-
-* **Person 1 (Team Leader) — Data Ingestion & Processing:**
-  * *Demonstrates:* Home Page $\rightarrow$ Upload / Demo Load $\rightarrow$ Dataset Overview $\rightarrow$ Dynamic Typing.
-  * *Explains:* **Objective 1 (Automation)** — How automated file detection and schema profiling replaces manual file opening.
-* **Person 2 — Data Quality & Cleaning:**
-  * *Demonstrates:* Data Quality Health $\rightarrow$ Missing Values Table $\rightarrow$ Duplicate Rows $\rightarrow$ Imputation $\rightarrow$ Before vs After Verification.
-  * *Explains:* **Objective 2 (Data Cleaning)** — The preservation of the original dataset and safe mathematical imputation strategies.
-* **Person 3 — Data Exploration & Statistical Analysis:**
-  * *Demonstrates:* Dynamic Search $\rightarrow$ Dynamic Filtering $\rightarrow$ Dynamic Sorting $\rightarrow$ Descriptive Statistics $\rightarrow$ Correlation.
-  * *Explains:* **Objective 3 (Exploration & Stats)** — How dynamic querying and descriptive metrics adapt to any dataset.
-* **Person 4 — Visualization, Insights & Report Generation:**
-  * *Demonstrates:* Dynamic Matplotlib/Seaborn Plots $\rightarrow$ Validation Against Crashes $\rightarrow$ Factual Key Insights $\rightarrow$ Cleaned Dataset Export.
-  * *Explains:* **Objective 4 (Visualization & Insights)** — Translating raw records into graphical evidence and reproducible deliverables.
-
----
-
-## 10. License & Credits
+## 9. License & Credits
 
 Developed as part of the **College Mini-Project in Data Analysis and Essentials**.
 Built with Python, Pandas, NumPy, Matplotlib, Seaborn, and Streamlit.
