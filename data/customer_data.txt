@@ -1,0 +1,11 @@
+Customer_ID	Customer_Name	Membership	Annual_Spend	Visits_Per_Month	Rating
+CUST01	Arun Kumar	Gold	1250.50	8	4.8
+CUST02	Bhavna Sen	Silver	650.00	4	4.1
+CUST03	Chetan Patel	Platinum	3400.75	15	4.9
+CUST04	Deepa Iyer	Bronze	210.00	2	3.8
+CUST05	Esha Roy	Gold	1890.20	11	4.6
+CUST06	Farhan Khan	Silver	820.40	5	4.3
+CUST07	Gita Menon	Platinum	2950.00	14	5.0
+CUST08	Harish Reddy	Bronze	340.50	3	3.9
+CUST09	Indu Nair	Gold	1540.00	9	4.7
+CUST10	Jatin Shah	Silver	720.00	4	4.2

@@ -1,0 +1,27 @@
+Order_ID,Order_Date,Region,Product_Category,Product_Name,Quantity,Unit_Price,Sales_Amount,Discount_Percent,Profit
+ORD1001,2024-01-15,North,Electronics,Wireless Mouse,5,25.00,125.00,5,35.00
+ORD1002,2024-01-16,South,Furniture,Office Chair,2,150.00,300.00,10,60.00
+ORD1003,2024-01-18,East,Technology,Mechanical Keyboard,3,80.00,240.00,0,72.00
+ORD1004,2024-01-20,West,Office Supplies,Gel Pens Pack,10,12.50,125.00,15,25.00
+ORD1005,2024-01-22,North,Electronics,USB-C Hub,4,45.00,180.00,5,40.00
+ORD1006,2024-01-25,East,Furniture,Standing Desk,1,350.00,350.00,10,85.00
+ORD1007,2024-01-28,South,Technology,External SSD 1TB,2,110.00,220.00,8,55.00
+ORD1008,2024-02-02,West,Office Supplies,Notebook Set,8,15.00,120.00,0,36.00
+ORD1009,2024-02-05,North,Technology,HD Monitor 27in,2,220.00,440.00,12,90.00
+ORD1010,2024-02-08,South,Electronics,Noise Cancel Headset,3,95.00,285.00,10,65.00
+ORD1011,2024-02-12,East,Office Supplies,Desk Organizer,6,18.00,108.00,5,28.00
+ORD1012,2024-02-15,West,Furniture,Ergonomic Stool,2,120.00,240.00,15,45.00
+ORD1013,2024-02-18,North,Electronics,Webcam 1080p,4,60.00,240.00,0,70.00
+ORD1014,2024-02-22,East,Technology,Wi-Fi Router 6,2,130.00,260.00,10,62.00
+ORD1015,2024-02-26,South,Office Supplies,Paper Shredder,1,85.00,85.00,5,20.00
+ORD1016,2024-03-01,West,Electronics,Bluetooth Speaker,3,50.00,150.00,8,38.00
+ORD1017,2024-03-05,North,Furniture,Bookshelf 5-Tier,1,180.00,180.00,10,42.00
+ORD1018,2024-03-08,South,Technology,Graphic Tablet,2,160.00,320.00,15,75.00
+ORD1019,2024-03-12,East,Office Supplies,Whiteboard 3x2,2,40.00,80.00,0,24.00
+ORD1020,2024-03-15,West,Electronics,Power Bank 20000mAh,5,35.00,175.00,10,45.00
+ORD1005,2024-01-22,North,Electronics,USB-C Hub,4,45.00,180.00,5,40.00
+ORD1021,2024-03-20,North,Technology,Smartwatch v3,3,140.00,420.00,5,105.00
+ORD1022,2024-03-25,South,Furniture,File Cabinet,1,210.00,210.00,12,50.00
+ORD1023,2024-03-28,East,Office Supplies,Stapler Heavy Duty,4,22.00,88.00,0,26.00
+ORD1024,2024-04-02,West,Technology,Laser Printer,1,280.00,280.00,10,70.00
+ORD1025,2024-04-05,North,Electronics,Gaming Mousepad,6,20.00,120.00,5,32.00

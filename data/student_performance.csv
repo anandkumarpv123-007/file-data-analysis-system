@@ -1,0 +1,44 @@
+Student_ID,Name,Gender,Department,Maths_Score,Python_Score,English_Score,Attendance_Percentage,Study_Hours_Per_Week
+STU001,Aarav Sharma,Male,Computer Science,85,92,78,94.5,15
+STU002,Diya Patel,Female,Information Technology,78,85,88,91.0,12
+STU003,Rohan Verma,Male,Computer Science,92,,81,96.0,18
+STU004,Ananya Iyer,Female,Electronics,65,70,75,82.5,10
+STU005,Vikram Singh,Male,Mechanical,58,62,60,75.0,8
+STU006,Ishita Gupta,Female,Computer Science,95,98,92,98.0,20
+STU007,Kabir Mehta,Male,Information Technology,72,75,,85.0,11
+STU008,Sanya Malhotra,Female,Electronics,88,82,85,92.0,14
+STU009,Arjun Nair,Male,Mechanical,54,58,62,70.5,7
+STU010,Pooja Reddy,Female,Computer Science,81,89,84,90.0,13
+STU011,Rahul Joshi,Male,Information Technology,69,74,70,80.0,9
+STU012,Sneha Kulkarni,Female,Computer Science,90,94,89,95.0,16
+STU013,Aditya Rao,Male,Electronics,,68,72,78.0,10
+STU014,Tanvi Sen,Female,Mechanical,62,65,68,83.0,10
+STU015,Karan Kapoor,Male,Computer Science,77,80,79,,12
+STU016,Rhea Das,Female,Information Technology,86,91,87,93.5,15
+STU017,Manish Choudhary,Male,Mechanical,50,55,58,68.0,6
+STU018,Neha Bhatt,Female,Computer Science,94,96,90,97.0,19
+STU019,Varun Tiwari,Male,Electronics,73,76,74,84.0,11
+STU020,Meera Nambiar,Female,Information Technology,83,88,86,91.5,14
+STU021,Gaurav Saxena,Male,Computer Science,89,93,85,94.0,16
+STU022,Priti Deshmukh,Female,Mechanical,66,71,69,82.0,10
+STU023,Akash Mishra,Male,Information Technology,75,79,80,87.0,12
+STU024,Divya Menon,Female,Computer Science,91,95,93,96.5,17
+STU025,Siddharth Jain,Male,Electronics,68,72,70,79.0,9
+STU006,Ishita Gupta,Female,Computer Science,95,98,92,98.0,20
+STU026,Kavya Pillai,Female,Computer Science,,87,83,89.0,13
+STU027,Harsh Vardhan,Male,Mechanical,59,63,61,74.0,8
+STU028,Tara Sundaram,Female,Information Technology,84,88,85,92.5,14
+STU029,Nikhil Agarwal,Male,Electronics,71,77,73,83.5,11
+STU030,Anika Chopra,Female,Computer Science,96,99,94,99.0,22
+STU016,Rhea Das,Female,Information Technology,86,91,87,93.5,15
+STU031,Pranav Roy,Male,Computer Science,82,86,80,88.0,13
+STU032,Shreya Ghosh,Female,Electronics,79,83,82,87.5,12
+STU033,Kunal Trivedi,Male,Mechanical,52,56,59,71.0,7
+STU034,Aditi Bansal,Female,Computer Science,93,95,91,96.0,18
+STU035,Ayush Pandey,Male,Information Technology,76,81,78,86.0,12
+STU036,Ritu Chauhan,Female,Electronics,70,75,76,81.0,10
+STU037,Dev Mukherjee,Male,Mechanical,61,64,66,77.0,9
+STU038,Simran Kaur,Female,Computer Science,88,92,87,93.0,15
+STU039,Tushar Goel,Male,Information Technology,80,84,81,89.0,13
+STU040,Bhavna Yadav,Female,Electronics,74,78,79,85.0,11
+STU024,Divya Menon,Female,Computer Science,91,95,93,96.5,17

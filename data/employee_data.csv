@@ -1,0 +1,16 @@
+Employee_ID,Full_Name,Department,Role,Salary,Years_Experience,Performance_Score,City
+EMP201,Rajesh Kumar,Engineering,Software Engineer,85000,4,4.2,Bengaluru
+EMP202,Priya Nair,Marketing,Brand Specialist,62000,3,3.9,Mumbai
+EMP203,Amitabh Sen,Data Science,ML Engineer,105000,6,4.8,Hyderabad
+EMP204,Sunita Rao,Human Resources,HR Manager,78000,7,4.0,Pune
+EMP205,Deepak Verma,Sales,Account Executive,58000,2,3.7,Delhi
+EMP206,Meenakshi Sundaram,Engineering,DevOps Engineer,92000,5,4.5,Chennai
+EMP207,Vikas Jain,Finance,Financial Analyst,70000,4,4.1,Mumbai
+EMP208,Anjali Sharma,Data Science,Data Analyst,68000,3,4.3,Bengaluru
+EMP209,Nitin Gadkari,Engineering,Tech Lead,125000,9,4.7,Pune
+EMP210,Swati Deshpande,Marketing,Content Strategist,55000,2,3.8,Delhi
+EMP211,Karthik Subramanian,Finance,Senior Accountant,82000,6,4.4,Chennai
+EMP212,Pallavi Joshi,Human Resources,Recruiter,50000,1,3.5,Hyderabad
+EMP203,Amitabh Sen,Data Science,ML Engineer,105000,6,4.8,Hyderabad
+EMP213,Suresh Raina,Sales,Regional Sales Lead,95000,8,4.6,Bengaluru
+EMP214,Kavita Krishnan,Engineering,QA Engineer,64000,3,3.9,Pune
